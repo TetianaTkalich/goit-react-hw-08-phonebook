@@ -1,4 +1,4 @@
-import axios from 'npm i axios';
+import axios from 'axios';
 
 axios.defaults.baseURL = 'https://connections-api.herokuapp.com/';
 
